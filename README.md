@@ -1,6 +1,9 @@
 # smart parking system
 
-![Project Logo](https://github.com/AhmadEsmail/Smart-parking-system-ESP32/blob/main/1705233509657.png)
+<img src="https://github.com/AhmadEsmail/Smart-parking-system-ESP32/blob/main/1705233509657.png" alt="Project Logo" width="800" height="600">
 
-![Project Logo](https://github.com/AhmadEsmail/Smart-parking-system-ESP32/blob/main/simulation.PNG)
+---
+# the schema
+
+<img src="https://github.com/AhmadEsmail/Smart-parking-system-ESP32/blob/main/simulation.PNG" alt="Project Logo" width="800" height="600">
 
