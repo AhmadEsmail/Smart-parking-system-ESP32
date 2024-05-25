@@ -8,7 +8,7 @@ This project implements a traffic light system with pedestrian crossing using ES
 
 ## schematic diagram
 
-<img src="https://github.com/AhmadEsmail/Smart-parking-system-ESP32/blob/main/simulation.PNG" alt="Project Logo" width="500" height="450">
+<img src="https://github.com/AhmadEsmail/Smart-parking-system-ESP32/blob/main/simulation.PNG" alt="Project Logo" width="500" height="400">
 
 ## Prerequisites
 
