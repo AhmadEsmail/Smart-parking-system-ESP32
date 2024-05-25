@@ -4,11 +4,11 @@
 
 ## Description
 
-This project implements a traffic light system with pedestrian crossing using ESP32 and FreeRTOS. The system controls the traffic lights and a servo motor to simulate pedestrian crossing. It utilizes GPIO pins and interrupts to manage the traffic light states and servo motor movement.
+This project implements a traffic light system with pedestrian crossing using ESP32 bord. The system controls the traffic lights and a servo motor to simulate pedestrian crossing. It utilizes GPIO pins and interrupts to manage the traffic light states and servo motor movement.
 
 ## schematic diagram
 
-<img src="https://github.com/AhmadEsmail/Smart-parking-system-ESP32/blob/main/simulation.PNG" alt="Project Logo" width="700" height="600">
+<img src="https://github.com/AhmadEsmail/Smart-parking-system-ESP32/blob/main/simulation.PNG" alt="Project Logo" width="500" height="450">
 
 ## Prerequisites
 
