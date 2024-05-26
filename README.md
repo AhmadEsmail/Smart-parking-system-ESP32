@@ -23,7 +23,7 @@ This project implements a traffic light system with pedestrian crossing using ES
 1. Clone the repository:
 
    ```bash
-  https://github.com/AhmadEsmail/Smart-parking-system-ESP32.git
+     https://github.com/AhmadEsmail/Smart-parking-system-ESP32.git
    ```
 
 2. Set up the ESP-IDF environment according to the [ESP-IDF documentation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html).
